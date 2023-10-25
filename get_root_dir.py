@@ -2,7 +2,6 @@
 """
 Created on Wed Oct 18 09:48:27 2023
 
-@author: a67wa_lb2dwvq
 """
 
 import os
